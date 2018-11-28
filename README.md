@@ -1,1 +1,3 @@
 # MonsterDraw
+
+GUI to design different types of monsters. The design is exported into Silhouette where it is traced and cut out into a vinyl sticker. The interface of the program allows the user to choose from four different general body parts: body shape, eyes, mouth and head. There are sub-options including number of eyes wanted, horns or antenna, a smile and/or teeth, and two types of body shapes and color. There are buttons and a drop-down bar to help the user generate the design. There is also a “clear” function and button that clears the display screen, and a “save image” function when any key is pressed. 
